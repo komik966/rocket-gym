@@ -8,7 +8,7 @@ Funkcja: Rejestr trenerów
       | Jan  | Kowalski | 50 PLN / h, B2B, do 25-12-2018 | koszykowka, rehabilitacja |
     Wtedy nowy trener powinien pojawić się na liście
     Oraz nowy trener powinien pojawić się w kalendarzu dostępności
-    Ale dostępność trenera jest maksymalnie do "25-12-2018"
+    Ale dostępność trenera jest w przedziale od teraz do "25-12-2018"
 
   Scenariusz: Modyfikacja danych trenera
     Jeżeli jestem "menadżerem"
